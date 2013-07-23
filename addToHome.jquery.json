@@ -1,0 +1,29 @@
+{
+  "name": "addToHome",
+  "title": "jQuery Add to Home iOS Plugin",
+  "description": "jQuery plugin to automatically show an 'Add to Home' message at the bottom of the page.",
+  "keywords": [
+    "query",
+    "iOS",
+    "mobile"
+  ],
+  "version": "1.0.0",
+  "author": {
+  	"email": "admin@mattsnider.com",
+    "name": "Matt Snider",
+    "url": "http://www.mattsnider.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/mattsnider/jquery-plugin-add-to-home/issues",
+  "homepage": "https://github.com/mattsnider/jquery-plugin-add-to-home",
+  "docs": "https://github.com/mattsnider/jquery-plugin-add-to-home",
+  "download": "https://github.com/mattsnider/jquery-plugin-add-to-home/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
